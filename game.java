@@ -1,5 +1,3 @@
-import com.sun.glass.ui.Menu;
-import com.sun.glass.ui.MenuBar;
 
 import javax.swing.*;
 import java.awt.*;
